@@ -1,5 +1,5 @@
-# Computer Stractures EX2
-Assignment 2: Create the signed magnitude stracture and implement all operation needed, also implement two basic functions using assembly.
+# Computer Stractures EX3
+Assignment 3: Extensive example of using Assembly X86 implementing jmp table + few functions using recursion.
 
 ## Usage:
 1. Compile and go.
